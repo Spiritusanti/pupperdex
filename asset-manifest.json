@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pupperdex/static/css/main.f0ef318e.chunk.css",
+    "main.js": "/pupperdex/static/js/main.99a37a74.chunk.js",
+    "main.js.map": "/pupperdex/static/js/main.99a37a74.chunk.js.map",
+    "runtime-main.js": "/pupperdex/static/js/runtime-main.84a8810f.js",
+    "runtime-main.js.map": "/pupperdex/static/js/runtime-main.84a8810f.js.map",
+    "static/js/2.b0e162e7.chunk.js": "/pupperdex/static/js/2.b0e162e7.chunk.js",
+    "static/js/2.b0e162e7.chunk.js.map": "/pupperdex/static/js/2.b0e162e7.chunk.js.map",
+    "index.html": "/pupperdex/index.html",
+    "precache-manifest.eb44f7bc04962d0741b29701014eb368.js": "/pupperdex/precache-manifest.eb44f7bc04962d0741b29701014eb368.js",
+    "service-worker.js": "/pupperdex/service-worker.js",
+    "static/css/main.f0ef318e.chunk.css.map": "/pupperdex/static/css/main.f0ef318e.chunk.css.map",
+    "static/js/2.b0e162e7.chunk.js.LICENSE.txt": "/pupperdex/static/js/2.b0e162e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84a8810f.js",
+    "static/js/2.b0e162e7.chunk.js",
+    "static/css/main.f0ef318e.chunk.css",
+    "static/js/main.99a37a74.chunk.js"
+  ]
+}
